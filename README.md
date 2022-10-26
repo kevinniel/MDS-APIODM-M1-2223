@@ -5,8 +5,7 @@ Réalisation d'un API sur Star Wars
 - Respect des 5 règles du REST
 - Techs : node / express / mongo (mongoose obligatoire)
 
-API de base : 
-https://swapi.dev/
+travail en solo
 
 
 ## Objectif : 
