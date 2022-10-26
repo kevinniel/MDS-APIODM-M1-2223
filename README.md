@@ -18,6 +18,7 @@ travail en solo
 
 - L'api : https://swapi.dev/
 - Richardson : https://guide-api-rest.marmicode.fr/api-rest/le-modele-de-maturite-de-richardson (SWAPI intègre déjà le modèle de richardson !)
+- https://editor.swagger.io/
 
 ## Dates cours : 
 - 26/10 jour entier
